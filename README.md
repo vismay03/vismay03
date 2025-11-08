@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vismay
-- 👀 I’m Fullstack Developer
-- 🌱 I’m currently learning more about reactjs
-- 💞️ I’m looking to collaborate on fullstack development
+- 👀 I’m Full-stack Developer
+- 🌱 I’m currently learning AI/ML
+- 💞️ I’m looking to collaborate on full-stack development
 
 
 <!---
